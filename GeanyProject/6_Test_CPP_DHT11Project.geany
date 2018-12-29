@@ -28,9 +28,13 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
-FILE_NAME_0=4604;C++;0;EUTF-8;2;1;0;%2Fhome%2Fpi%2FTestPlace%2F6_Test_CPP_18B20Project%2FUser%2Fmain.cpp;0;4
+current_page=3
+FILE_NAME_0=3712;C++;0;EUTF-8;2;1;0;%2Fhome%2Fpi%2FTestPlace%2F6_Test_CPP_18B20Project%2FUser%2Fmain.cpp;0;4
 FILE_NAME_1=62766;C;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FTestPlace%2F6_Test_CPP_18B20Project%2FwiringPi%2FwiringPi%2FwiringPi.c;0;2
+FILE_NAME_2=0;C++;0;EUTF-8;0;1;0;%2Fhome%2Fpi%2FTestPlace%2F6_Test_CPP_18B20Project%2FwiringPi%2FwiringPi%2FwiringPi.h;0;2
+FILE_NAME_3=1678;Make;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FTestPlace%2F6_Test_CPP_18B20Project%2FUser%2FMakefile;0;4
+FILE_NAME_4=1643;Make;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FTestPlace%2F6_Test_CPP_18B20Project%2FUser%2Fsrcpathconfig.mk;0;4
+FILE_NAME_5=0;Make;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FTestPlace%2F6_Test_CPP_18B20Project%2FUser%2Fcompileconfig.mk;0;4
 
 [VTE]
 last_dir=/home/pi

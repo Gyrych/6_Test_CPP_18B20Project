@@ -161,8 +161,11 @@ unsigned char DS18B20::_read_byte(void)
 int main(void)
 {
     DS18B20 ds18b20_1;
-    
-    std::cout << "Temperature: " << ds18b20_1.GetTemperature() << std::endl;
+   
+    while(1)
+    {
+    	std::cout << "Temperature: " << ds18b20_1.GetTemperature() << std::endl;
+    }
 
     return 0;
 }
