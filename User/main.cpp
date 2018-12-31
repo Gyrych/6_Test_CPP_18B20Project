@@ -67,7 +67,7 @@ void DS18B20::_update(void)
     _write_byte(0xcc);
     _write_byte(0x44);
     
-    delay(1000);
+    delay(1500);
 
     flag = _ds18b20_init();
     if (flag)
